@@ -1,4 +1,4 @@
-class Pattern1 {
+class Pattern2 {
     public static void main(String[] args) {
         int i,j;
 	int h = Integer.parseInt(args[0]);
@@ -12,10 +12,9 @@ class Pattern1 {
 
             for(j=1;j<=i;j++)
             {
-                System.out.print("* ");
+                System.out.print("*");
             }
             System.out.println();
         }
     }
-
 }

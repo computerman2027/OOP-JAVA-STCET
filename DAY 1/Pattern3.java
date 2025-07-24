@@ -1,4 +1,4 @@
-class Pattern1 {
+class Pattern3 {
     public static void main(String[] args) {
         int i,j;
 	int h = Integer.parseInt(args[0]);
